@@ -2,3 +2,7 @@ streamlit~=1.57.0
 protobuf~=4.25.9
 python-dotenv~=1.2.2
 fastapi~=0.136.1
+streamlit
+pymupdf
+google-generativeai
+python-dotenv
